@@ -1,0 +1,8 @@
+sudo npm install --global yarn
+sudo npx create-react-app frontend --template typescript
+excluir .git
+cd frontend && yarn start
+
+https://start.spring.io/
+
+rename backend
