@@ -6,3 +6,18 @@ cd frontend && yarn start
 https://start.spring.io/
 
 rename backend
+
+clean react files and comments
+
+create components NavBar, Footer and DataTable
+Add charts
+yarn add apexcharts react-apexcharts
+Added chart components
+
+git commit -m "Static charts"
+
+https://github.com/devsuperior/sds3
+https://github.com/devsuperior/sds3/tree/main/episodio1
+https://devsuperior.com.br/evento?episodio=1
+
+1:37:19
