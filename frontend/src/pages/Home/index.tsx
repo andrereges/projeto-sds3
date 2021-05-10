@@ -1,6 +1,6 @@
-import Footer from "components/Footer";
-import NavBar from "components/NavBar";
-import { Link } from "react-router-dom";
+import Footer from "components/Footer"
+import NavBar from "components/NavBar"
+import { Link } from "react-router-dom"
 
 const Home = () => {
     return (
@@ -19,7 +19,7 @@ const Home = () => {
             </div>
             <Footer />
         </>
-    );
+    )
 }
 
-export default Home;
+export default Home

@@ -1,11 +1,11 @@
-import axios from 'axios';
-import { useEffect, useState } from 'react';
-import Chart from 'react-apexcharts';
-import { SaleSum } from 'types/sale';
-import { BASE_URL } from 'utils/requests';
+import axios from 'axios'
+import { useEffect, useState } from 'react'
+import Chart from 'react-apexcharts'
+import { SaleSum } from 'types/sale'
+import { BASE_URL } from 'utils/requests'
 
 type ChartData = {
-    labels: string[];
+    labels: string[],
     series: number[]
 }
 
@@ -34,7 +34,7 @@ const DonutChart = () => {
             type="donut"
             height="240"
         />
-    );
+    )
 }
 
-export default DonutChart;
+export default DonutChart
